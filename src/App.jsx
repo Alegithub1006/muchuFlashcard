@@ -1,5 +1,5 @@
 import "./App.css";
-import { data } from "./mocks/data.json";
+import data from "../src/mocks/data.json";
 import { useState } from "react";
 import { ListCard } from "./components/ListCard";
 import { Header } from "./components/Header";

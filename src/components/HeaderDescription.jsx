@@ -1,4 +1,4 @@
-import "../styles/HeaderDescription.css";
+import "../styles/headerDescription.css";
 
 export function HeaderDescription() {
   return (
